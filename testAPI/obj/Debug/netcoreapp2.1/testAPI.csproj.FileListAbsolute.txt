@@ -1,0 +1,16 @@
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.deps.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.dev.json
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.dll
+C:\Users\ahmad\source\repos\testAPI\testAPI\bin\Debug\netcoreapp2.1\testAPI.pdb
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cache
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cs
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.dll
+C:\Users\ahmad\source\repos\testAPI\testAPI\obj\Debug\netcoreapp2.1\testAPI.pdb
